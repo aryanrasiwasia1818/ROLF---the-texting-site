@@ -1,0 +1,9 @@
+com/example/rolf/service/KafkaConsumer.class
+com/example/rolf/config/WebSocketConfig.class
+com/example/rolf/controller/ChatController.class
+com/example/rolf/service/KafkaProducer.class
+com/example/rolf/config/WebConfig.class
+com/example/rolf/config/RedisConfig.class
+com/example/rolf/model/ChatMessage.class
+com/example/rolf/RolfApplication.class
+KafkaConfig.class
